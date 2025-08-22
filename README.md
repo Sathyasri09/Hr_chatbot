@@ -114,5 +114,6 @@ Deployment to scalable cloud infrastructure.
 
 # 9. Demo
 Local demo: Run streamlit run app1.py after setup.
-Live demo (optional):
+
+Live demo (optional):https://hrchatbot-nvy5ttcrgvsr2zkxkgzxai.streamlit.app/
 
