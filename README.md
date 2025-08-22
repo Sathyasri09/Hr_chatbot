@@ -51,7 +51,7 @@ streamlit run app1.py
 
 
 # 5. API Documentation
-Endpoints (optional FastAPI backend):
+**Endpoints (optional FastAPI backend):
 POST /chat
 Description: Send a query to get employee recommendations.
 Request Body:
