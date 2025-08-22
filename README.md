@@ -87,7 +87,7 @@ Description: Send a query to get employee recommendations.
 }
 GET /employees/search?skill=Python
 
-Description: Filter employees by skill or other parameters.
+Description: Filter employees by skill or other parameters.```
 
 
 ## 6. AI Development Process
