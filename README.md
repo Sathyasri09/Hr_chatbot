@@ -54,12 +54,12 @@ streamlit run app1.py
 **Endpoints (optional FastAPI backend):**
 POST /chat
 Description: Send a query to get employee recommendations.
-**Request Body:**
+# **Request Body:**
 {
     "query": "Find Python developers with 3+ years experience"
 }
 # **Response:**
-{
+```{
   "query": "2+ years as data analyst",
   "results": [
     {
