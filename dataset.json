@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Chen",
+      "skills": ["Machine Learning", "TensorFlow", "PyTorch"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "X-ray AI"],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Michael Rodriguez",
+      "skills": ["Machine Learning", "scikit-learn", "pandas"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction", "EHR Analytics"],
+      "availability": "busy"
+    },
+    {
+      "id": 4,
+      "name": "Priya Sharma",
+      "skills": ["React Native", "JavaScript", "Docker"],
+      "experience_years": 3,
+      "projects": ["Mobile Banking App", "Food Delivery Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "James Wilson",
+      "skills": ["AWS", "Docker", "Kubernetes"],
+      "experience_years": 7,
+      "projects": ["Cloud Migration", "DevOps Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "Maria Garcia",
+      "skills": ["Python", "SQL", "Power BI"],
+      "experience_years": 5,
+      "projects": ["Sales Analytics", "Financial Dashboard"],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "David Lee",
+      "skills": ["Java", "Spring Boot", "Microservices"],
+      "experience_years": 8,
+      "projects": ["Banking Platform", "Loan Processing System"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Patel",
+      "skills": ["Azure", "Data Engineering", "ETL"],
+      "experience_years": 4,
+      "projects": ["Healthcare Data Lake", "Insurance Claims Pipeline"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "John Miller",
+      "skills": ["C#", ".NET", "SQL Server"],
+      "experience_years": 6,
+      "projects": ["ERP System", "Hospital Management Software"],
+      "availability": "busy"
+    },
+    {
+      "id": 10,
+      "name": "Aisha Khan",
+      "skills": ["NLP", "HuggingFace", "Python"],
+      "experience_years": 3,
+      "projects": ["Chatbot Assistant", "Document Summarization"],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Liam Brown",
+      "skills": ["React", "Node.js", "GraphQL"],
+      "experience_years": 4,
+      "projects": ["Social Media App", "E-commerce Backend"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Emily Davis",
+      "skills": ["Data Science", "R", "Python"],
+      "experience_years": 5,
+      "projects": ["Fraud Detection", "Customer Segmentation"],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Robert King",
+      "skills": ["AWS", "Terraform", "DevOps"],
+      "experience_years": 7,
+      "projects": ["Cloud Infrastructure Setup", "CI/CD Pipelines"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Chen Wei",
+      "skills": ["Golang", "Kubernetes", "Microservices"],
+      "experience_years": 5,
+      "projects": ["Logistics Platform", "Real-time Tracking System"],
+      "availability": "busy"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Martinez",
+      "skills": ["Python", "ML", "Healthcare AI"],
+      "experience_years": 6,
+      "projects": ["Cancer Detection AI", "Clinical Trial Data Processing"],
+      "availability": "available"
+    }
+  ]
+}
