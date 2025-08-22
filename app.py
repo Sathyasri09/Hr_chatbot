@@ -1,4 +1,3 @@
-# app.py
 import streamlit as st
 import threading
 import uvicorn
@@ -11,9 +10,8 @@ def start_backend():
     uvicorn.run(fastapi_app, host="127.0.0.1", port=8000)
 
 threading.Thread(target=start_backend, daemon=True).start()
-time.sleep(1)  # Wait for backend to start
+time.sleep(1)  
 
-# Streamlit page configuration without icon
 st.set_page_config(page_title="HR Chatbot", layout="wide")
 st.title("HR Resource Query Chatbot")
 
@@ -28,7 +26,6 @@ if query:
         if not results:
             st.warning("No matching employees found.")
         else:
-            # Generate natural language response
             from rag import RAGChatbot
             chatbot = RAGChatbot(results)
             natural_response = chatbot.generate_response(query)
