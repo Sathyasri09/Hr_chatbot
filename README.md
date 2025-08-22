@@ -36,7 +36,7 @@ User Query → Streamlit UI → RAG Chatbot → Employee Data → LLM Response �
 ## 4. Setup & Installation
 
 # Step 1: Clone repository
-git clone https://github.com/Sathyasri09/rag_employee_chatbot.git
+git clone https://github.com/Sathyasri09/Hr_chatbot.git
 cd rag_employee_chatbot
 
 # Step 2: Create and activate virtual environment
